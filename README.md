@@ -14,6 +14,7 @@
 | Staff Room | normal | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/RaidShadowLegends/staffroom.png?raw=true) | RaidShadowLegends#5267 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/RaidShadowLegends/dungeon_room_5.schem?raw=true) |
 | Pit | normal | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/xdprogamer/pit.png?raw=true) | xdprogamerx#7542 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/xdprogamer/Pit.schem?raw=true) |
 | - | normal | - | Akil_Ahnaf#2189 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/Akil_Ahnaf/moul_berry_dungeons_room_1x1_v2.schem?raw=true) |
+| Cake Jail | L | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/gyro/cake.png?raw=true) | gyro#1702 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/gyro/room_cake_jail.schem?raw=true) |
 | name | type | ![image]() | creator | [Click here]() |
 
 ## Note: If the author didnt provide some of the info its not there or incase if Room Type is "normal".
