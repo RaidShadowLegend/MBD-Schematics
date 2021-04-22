@@ -10,7 +10,7 @@
 | TnT | L | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/Endergamer_hun/tnt.jpg?raw=true) | Endergamer_hun#3696 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/Endergamer_hun/tnt_X_room.schem?raw=true) |
 | Mining | normal | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/RaidShadowLegends/mining.png?raw=true) | RaidShadowLegends#5267 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/RaidShadowLegends/Dungeon_Room_Mining_Themed.schem?raw=true) |
 | - | normal | I didnt know what img was this room  | RaidShadowLegends#5267 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/RaidShadowLegends/dungeon_room_3.schem?raw=true) |
-| 1 | 2 | ![image]() | 4 | [Click here]() |
+| - | normal | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/RaidShadowLegends/1.png?raw=true) | RaidShadowLegends#5267 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/RaidShadowLegends/dungeon_room_4.schem?raw=true) |
 | 1 | 2 | ![image]() | 4 | [Click here]() |
 | 1 | 2 | ![image]() | 4 | [Click here]() |
 | 1 | 2 | ![image]() | 4 | [Click here]() |
