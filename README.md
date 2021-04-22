@@ -17,4 +17,4 @@
 | Cake Jail | L | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/gyro/cake.png?raw=true) | gyro#1702 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/gyro/room_cake_jail.schem?raw=true) |
 | name | type | ![image]() | creator | [Click here]() |
 
-## Note: If the author didnt provide some of the info its not there or incase of Room Type is "normal".
+## Note: If the author didnt provide some of the info its not there or incase of Room Type it is "normal".
