@@ -12,7 +12,7 @@
 | - | normal | I didnt know what img was this room  | RaidShadowLegends#5267 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/RaidShadowLegends/dungeon_room_3.schem?raw=true) |
 | - | normal | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/RaidShadowLegends/1.png?raw=true) | RaidShadowLegends#5267 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/RaidShadowLegends/dungeon_room_4.schem?raw=true) |
 | Staff Room | normal | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/RaidShadowLegends/staffroom.png?raw=true) | RaidShadowLegends#5267 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/RaidShadowLegends/dungeon_room_5.schem?raw=true) |
-| name | type | ![image]() | creator | [Click here]() |
+| Pit | normal | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/xdprogamer/pit.png?raw=true) | xdprogamerx#7542 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/xdprogamer/Pit.schem?raw=true) |
 | name | type | ![image]() | creator | [Click here]() |
 | name | type | ![image]() | creator | [Click here]() |
 | name | type | ![image]() | creator | [Click here]() |
