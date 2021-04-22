@@ -11,7 +11,7 @@
 | Mining | normal | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/RaidShadowLegends/mining.png?raw=true) | RaidShadowLegends#5267 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/RaidShadowLegends/Dungeon_Room_Mining_Themed.schem?raw=true) |
 | - | normal | I didnt know what img was this room  | RaidShadowLegends#5267 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/RaidShadowLegends/dungeon_room_3.schem?raw=true) |
 | - | normal | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/RaidShadowLegends/1.png?raw=true) | RaidShadowLegends#5267 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/RaidShadowLegends/dungeon_room_4.schem?raw=true) |
-| 1 | 2 | ![image]() | 4 | [Click here]() |
+| Staff Room | normal | ![image](https://github.com/Zero5G/MBD-Schematics/blob/main/Screenshots/RaidShadowLegends/staffroom.png?raw=true) | RaidShadowLegends#5267 | [Click here](https://github.com/Zero5G/MBD-Schematics/blob/main/Schematics/RaidShadowLegends/dungeon_room_5.schem?raw=true) |
 | 1 | 2 | ![image]() | 4 | [Click here]() |
 | 1 | 2 | ![image]() | 4 | [Click here]() |
 | 1 | 2 | ![image]() | 4 | [Click here]() |
